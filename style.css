@@ -284,6 +284,7 @@ button:hover {
 /* ==== STYLE FOR FOOTER (all pages) ==== */
 footer {
     border-top: 1px solid #333;
+    font-weight: bold;
     padding-top: 10px;
     margin-top: 40px;
 }
